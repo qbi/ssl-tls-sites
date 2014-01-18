@@ -10,12 +10,13 @@ here:
 
 https://kubieziel.de/computer/ssl-tls.html
 
-If you know about other sites please edit the file
-[https://github.com/qbi/ssl-tls-sites/SSL-TLS.org](SSL-TLS.org) or the
-[https://pad.riseup.net/p/SSL-TLS](Pad).
+If you know about other sites please edit the file [SSL-TLS.org][] or the
+[Pad][].
 
 [tutorial on the secure settings of SSL/TLS in your browser]: http://www.kubieziel.de/blog/archives/1564-Using-SSL-securely-in-your-browser.html
 
 [german version]: http://www.kubieziel.de/blog/archives/1563-SSL-im-Browser-sicher-verwenden.html
 
+[SSL-TLS.org]: https://github.com/qbi/ssl-tls-sites/SSL-TLS.org
 
+[Pad]: https://pad.systemli.org/p/SSL-TLS
