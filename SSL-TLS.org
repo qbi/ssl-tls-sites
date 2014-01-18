@@ -1,7 +1,9 @@
 * What sites offer which SSL/TLS version?
 
-| Name            | SSL/TLS version | Result from SSLLabs |
-|-----------------+-----------------+---------------------|
-| [[https://www.antifainfoblatt.de/][Antifainfoblatt]] | SSL3, TLS1.0    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dantifainfoblatt.de][A]]                   |
-| [[https://lorea.org/][Lorea.org]]       | SSL3, TLS1.0    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dlorea.org][A]]                   |
-| [[https://www.openpetition.de/][OpenPetition]]    | SSL3, TLS1.0    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dopenpetition.de][A]]                   |
+| Name               | SSL/TLS version | Result from SSLLabs |
+|--------------------+-----------------+---------------------|
+| [[https://www.antifainfoblatt.de/][Antifainfoblatt]]    | SSL3, TLS1.0    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dantifainfoblatt.de][A]]                   |
+| [[https://lorea.org/][Lorea.org]]          | SSL3, TLS1.0    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dlorea.org][A]]                   |
+| [[https://www.openpetition.de/][OpenPetition]]       | SSL3, TLS1.0    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dopenpetition.de][A]]                   |
+| [[https://pad.riseup.net/][Pad von Riseup.net]] | SSL3, TLS1.0    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dpad.riseup.net][A]]                   |
+|                    |                 |                     |
