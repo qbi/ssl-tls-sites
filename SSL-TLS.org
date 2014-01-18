@@ -1,5 +1,6 @@
 * What sites offer which SSL/TLS version?
 
-| Name | URL | SSL/TLS version | Result from SSLLabs |
-|------+-----+-----------------+---------------------|
-|      |     |                 |                     |
+| Name         | URL                          | SSL/TLS version | Result from SSLLabs |
+|--------------+------------------------------+-----------------+---------------------|
+| OpenPetition | https://www.openpetition.de/ | SSL3, TLS1.0    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dopenpetition.de][A]]                   |
+|              |                              |                 |                     |
