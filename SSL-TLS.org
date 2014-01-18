@@ -1,6 +1,6 @@
 * What sites offer which SSL/TLS version?
 
-| Name            | URL                             | SSL/TLS version | Result from SSLLabs |
-|-----------------+---------------------------------+-----------------+---------------------|
-| Antifainfoblatt | https://www.antifainfoblatt.de/ | SSL3, TLS1.0    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dantifainfoblatt.de][A]]                   |
-| OpenPetition    | https://www.openpetition.de/    | SSL3, TLS1.0    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dopenpetition.de][A]]                   |
+| Name            | SSL/TLS version | Result from SSLLabs |
+|-----------------+-----------------+---------------------+
+| [[https://www.antifainfoblatt.de/][Antifainfoblatt]] | SSL3, TLS1.0    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dantifainfoblatt.de][A]]                   |
+| [[https://www.openpetition.de/][OpenPetition]]    | SSL3, TLS1.0    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dopenpetition.de][A]]                   |
