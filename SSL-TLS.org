@@ -1,1 +1,5 @@
 * What sites offer which SSL/TLS version?
+
+| Name | URL | SSL/TLS version | Result from SSLLabs |
+|------+-----+-----------------+---------------------|
+|      |     |                 |                     |
