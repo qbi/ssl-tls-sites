@@ -7,4 +7,5 @@
 | [[https://www.openpetition.de/][OpenPetition]]          | SSL3, TLS1.0    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dopenpetition.de][A]]                   |
 | [[https://pad.riseup.net/][Pad von Riseup.net]]    | SSL3, TLS1.0    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dpad.riseup.net][A]]                   |
 | [[https://pads.subsignal.org/][Pad von Subsignal.org]] | SSL3, TLS1.0    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dpads.subsignal.org][F]]                   |
+| [[https://piratenpad.de/][Piratenpad]]            | SSL3, TLS1.0    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dpiratenpad.de][B]]                   |
 |                       |                 |                     |
