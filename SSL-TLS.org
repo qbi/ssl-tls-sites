@@ -23,6 +23,7 @@
 | [[https://www.phpbb.com/][phpBB]]                     | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dphpbb.com][A]]                   |
 | [[https://shop.tuxpost.de/][Shop von Tuxpost.de]]       | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dshop.tuxpost.de][A]]                   |
 | [[https://stackexchange.com/][Stackexchange]]             | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dstackexchange.com][B]]                   |
+| [[https://titanpad.com/][Titanpad]]                  | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dtitanpad.com][C]]                   |
 | [[https://www.uni-jena.de/][Uni Jena]]                  | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dwww.uni-jena.de][B]]                   |
 | [[https://uberspace.de/][Uberspace]]                 | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Duberspace.de][A]]                   |
 | [[https://www.verbraucher-sicher-online.de/][Verbraucher sicher online]] | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dverbraucher-sicher-online.de][B]]                   |
