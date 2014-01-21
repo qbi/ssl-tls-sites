@@ -1,4 +1,5 @@
 * What sites offer which SSL/TLS version?
+  I try to collect sites which do not support TLS 1.1 or TLS 1.2.
 
 | Name                      | SSL/TLS version    | Result from SSLLabs |
 |---------------------------+--------------------+---------------------|
