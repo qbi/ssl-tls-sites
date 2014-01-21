@@ -29,6 +29,7 @@
 | [[https://projecthoneypot.org/][Project Honeypot]]          | SSL2, SSL3, TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dprojecthoneypot.org][F]]                   |
 | [[https://quitter.se/][Quitter]]                   | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dquitter.se][B]]                   |
 | [[https://realtor.com/][Realtor]]                   | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Drealtor.com][F]]                   |
+| [[https://www.safe-mail.net/][Safe-Mail]]                 | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dsafe-mail.net][F]]                   |
 | [[https://schneier.com/][Schneier.com]]              | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dschneier.com][B]]                   |
 | [[https://shop.tuxpost.de/][Shop von Tuxpost.de]]       | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dshop.tuxpost.de][A]]                   |
 | [[https://www.soundcloud.com/][Soundcloud]]                | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dsoundcloud.com][B]]                   |
