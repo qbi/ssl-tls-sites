@@ -23,6 +23,7 @@
 | [[https://pad.riseup.net/][Pad von Riseup.net]]        | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dpad.riseup.net][A]]                   |
 | [[https://pads.subsignal.org/][Pad von Subsignal.org]]     | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dpads.subsignal.org][F]]                   |
 | [[https://www.phpbb.com/][phpBB]]                     | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dphpbb.com][A]]                   |
+| [[https://pinterest.com/][Pinterest]]                 | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dpinterest.com][B]]                   |
 | [[https://piratenpad.de/][Piratenpad]]                | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dpiratenpad.de][B]]                   |
 | [[https://projecthoneypot.org/][Project Honeypot]]          | SSL2, SSL3, TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dprojecthoneypot.org][F]]                   |
 | [[https://quitter.se/][Quitter]]                   | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dquitter.se][B]]                   |
@@ -39,3 +40,4 @@
 | [[https://www.verbraucher-sicher-online.de/][Verbraucher sicher online]] | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dverbraucher-sicher-online.de][B]]                   |
 | [[https://www.vine.co/][Vine]]                      | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dvine.co][A]]                   |
 | [[https://webpg.org/][WebPG]]                     | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dwebpg.org][F]]                   |
+| [[https://yahoo.com/][Yahoo!]]                    |                    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dyahoo.com][XXX]]                 |
