@@ -23,6 +23,7 @@
 | [[https://pads.subsignal.org/][Pad von Subsignal.org]]     | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dpads.subsignal.org][F]]                   |
 | [[https://www.phpbb.com/][phpBB]]                     | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dphpbb.com][A]]                   |
 | [[https://piratenpad.de/][Piratenpad]]                | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dpiratenpad.de][B]]                   |
+| [[https://projecthoneypot.org/][Project Honeypot]]          | SSL2, SSL3, TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dprojecthoneypot.org][F]]                   |
 | [[https://quitter.se/][Quitter]]                   | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dquitter.se][B]]                   |
 | [[https://schneier.com/][Schneier.com]]              | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dschneier.com][B]]                   |
 | [[https://shop.tuxpost.de/][Shop von Tuxpost.de]]       | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dshop.tuxpost.de][A]]                   |
