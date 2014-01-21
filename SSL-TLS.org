@@ -40,4 +40,4 @@
 | [[https://www.verbraucher-sicher-online.de/][Verbraucher sicher online]] | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dverbraucher-sicher-online.de][B]]                   |
 | [[https://www.vine.co/][Vine]]                      | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dvine.co][A]]                   |
 | [[https://webpg.org/][WebPG]]                     | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dwebpg.org][F]]                   |
-| [[https://yahoo.com/][Yahoo!]]                    |                    | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dyahoo.com][XXX]]                 |
+| [[https://yahoo.com/][Yahoo!]]                    | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dyahoo.com][B]]                   |
