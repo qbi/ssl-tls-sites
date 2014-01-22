@@ -1,5 +1,8 @@
 * What sites offer which SSL/TLS version?
-  I try to collect sites which do not support TLS 1.1 or TLS 1.2.
+  I try to collect sites which do not support TLS 1.1 or TLS 1.2. You
+  can send me a [[https://github.com/qbi/ssl-tls-sites/pulls][pull request]] or use the [[https://pad.systemli.org/p/SSL-TLS][Pad]]. The data below go into my
+  [[https://kubieziel.de/computer/ssl-tls.html][main site about SSL/TLS versions]]. You can find more information
+  there.
 
 | Name                      | SSL/TLS version    | Result from SSLLabs |
 |---------------------------+--------------------+---------------------|
