@@ -20,6 +20,7 @@
 | [[https://events.ccc.de/][Eventseite beim CCC]]       | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Devents.ccc.de][F]]                   |
 | [[https://flattr.com/][Flattr]]                    | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dflattr.com][B]]                   |
 | [[https://www.freenode.net/][Freenode]]                  | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dfreenode.net][B]]                   |
+| [[https://fsfe.org/][FSFE]]                      | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dfsfe.org][B]]                   |
 | [[https://help.github.com/][Github (Hilfeseite)]]       | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dhelp.github.com][A]]                   |
 | [[https://www.gnu.org/][GNU]]                       | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dgnu.org][A]]                   |
 | [[https://heise.de/][Heise]]                     | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dheise.de&s%3D193.99.144.85&hideResults%3Don][A]]                   |
