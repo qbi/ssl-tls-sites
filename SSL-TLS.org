@@ -21,6 +21,7 @@
 | [[https://www.gnu.org/][GNU]]                       | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dgnu.org][A]]                   |
 | [[https://heise.de/][Heise]]                     | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dheise.de&s%3D193.99.144.85&hideResults%3Don][A]]                   |
 | [[https://hosteurope.de/][HostEurope]]                | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dhosteurope.de][B]]                   |
+| [[https://www.k-classic-mobil.de/][K-Classic Mobil]]           | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dk-classic-mobil.de][B]]                   |
 | [[https://kairaven.de/][Kai Raven]]                 | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dkairaven.de&ignoreMismatch%3Don][F]]                   |
 | [[https://www.linkedin.com][Linkedin]]                  | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dlinkedin.com][B]]                   |
 | [[https://www.linuxplumbersconf.org/][Linux Plumbers Conference]] | SSL2, SSL3, TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dlinuxplumbersconf.org][F]]                   |
