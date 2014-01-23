@@ -6,6 +6,7 @@
 
 | Name                      | SSL/TLS version    | Result from SSLLabs |
 |---------------------------+--------------------+---------------------|
+| [[https://aallnet.org/][Aallnet.org]]               | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Daallnet.org][B]]                   |
 | [[https://about.me/][about.me]]                  | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dabout.me][A]]                   |
 | [[https://alternativefuer.de/][AfD]]                       | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dalternativefuer.de][B]]                   |
 | Amazon                    | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Damazon.com][A]]                   |
