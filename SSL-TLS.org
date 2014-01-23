@@ -60,6 +60,7 @@
 | [[https://check.torproject.org/][Torproject.org (Check)]]    | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dcheck.torproject.org][B]]                   |
 | [[https://www.tu-berlin.de/][FU Berlin (+Subdomains)]]   | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dtu-berlin.de][B]]                   |
 | [[https://uberspace.de/][Uberspace]]                 | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Duberspace.de][A]]                   |
+| [[https://www.uni-due.de/][Uni Essen Duisburg]]        | SSL2, SSL3, TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dwww.uni-due.de&s%3D132.252.181.87][F]]                   |
 | [[https://www.uni-jena.de/][Uni Jena]]                  | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dwww.uni-jena.de][B]]                   |
 | [[https://www.uni-muenchen.de/][Uni Muenchen]]              | SSL2, SSL3, TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Duni-muenchen.de][B]]                   |
 | [[https://www.verbraucher-sicher-online.de/][Verbraucher sicher online]] | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dverbraucher-sicher-online.de][B]]                   |
