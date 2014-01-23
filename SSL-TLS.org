@@ -35,6 +35,7 @@
 | [[https://microsoft.com/][Microsoft]]                 | SSL2, SSL3, TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dmicrosoft.com&s%3D64.4.11.42][A]], [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dmicrosoft.com&s%3D65.55.58.201][F]], [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dmicrosoft.com&s%3D64.4.11.37][F]]             |
 | [[https://my.ebay.de/][My Ebay]]                   | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dmy.ebay.de][B]]                   |
 | [[https://myspace.com/][MySpace]][fn:1]             | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dmyspace.com&s%3D216.178.47.11][A-]], [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dmyspace.com&s%3D216.178.46.224][B]]               |
+| [[https://nytimes.com/][NYTimes]]                   | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dnytimes.com][B]]                   |
 | [[https://www.openpetition.de/][OpenPetition]]              | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dopenpetition.de][A]]                   |
 | [[https://pad.riseup.net/][Pad von Riseup.net]]        | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dpad.riseup.net][A]]                   |
 | [[https://pads.subsignal.org/][Pad von Subsignal.org]]     | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dpads.subsignal.org][F]]                   |
