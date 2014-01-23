@@ -17,6 +17,7 @@
 | [[https://coursera.org/][Coursera]]                  | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dcoursera.org][A]]                   |
 | [[https://portal.dnb.de/][DNB-Portal]]                | SSL2, SSL3, TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dportal.dnb.de][F]]                   |
 | [[https://events.ccc.de/][Eventseite beim CCC]]       | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Devents.ccc.de][F]]                   |
+| [[https://flattr.com/][Flattr]]                    | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dflattr.com][B]]                   |
 | [[https://www.freenode.net/][Freenode]]                  | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dfreenode.net][B]]                   |
 | [[https://help.github.com/][Github (Hilfeseite)]]       | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dhelp.github.com][A]]                   |
 | [[https://www.gnu.org/][GNU]]                       | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dgnu.org][A]]                   |
