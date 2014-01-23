@@ -56,3 +56,4 @@
 | [[https://yahoo.com/][Yahoo!]]                    | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dyahoo.com][B]]                   |
 | [[https://yammer.com/][Yammer]]                    | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dyammer.com][B]]                   |
 | [[https://yelp.com/][Yelp]]                      | SSL2, SSL3, TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dyelp.com][B]]                   |
+| [[https://portal.zedat.fu-berlin.de/][Zedat FU Berlin]]           | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dportal.zedat.fu-berlin.de][B]]                   |
