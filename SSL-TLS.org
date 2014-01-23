@@ -45,6 +45,7 @@
 | [[https://schneier.com/][Schneier.com]]              | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dschneier.com][B]]                   |
 | [[https://shop.tuxpost.de/][Shop von Tuxpost.de]]       | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dshop.tuxpost.de][A]]                   |
 | [[https://www.soundcloud.com/][Soundcloud]]                | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dsoundcloud.com][B]]                   |
+| [[https://spd.de/][SPD]]                       | SSL2, SSL3, TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dspd.de][F]]                   |
 | [[https://stackexchange.com/][Stackexchange]]             | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dstackexchange.com][B]]                   |
 | [[https://www.threatpost.com/][Threatpost]]                | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dthreatpost.com][A]]                   |
 | [[https://titanpad.com/][Titanpad]]                  | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dtitanpad.com][C]]                   |
