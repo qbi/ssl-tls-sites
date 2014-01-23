@@ -7,6 +7,7 @@
 | Name                      | SSL/TLS version    | Result from SSLLabs |
 |---------------------------+--------------------+---------------------|
 | [[https://about.me/][about.me]]                  | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dabout.me][A]]                   |
+| [[https://alternativefuer.de/][AfD]]                       | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dalternativefuer.de][B]]                   |
 | Amazon                    | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Damazon.com][A]]                   |
 | [[https://www.antifainfoblatt.de/][Antifainfoblatt]]           | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dantifainfoblatt.de][A]]                   |
 | [[https://httpd.apache.org/][Apache Webserver]]          | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dhttpd.apache.org][A]]                   |
