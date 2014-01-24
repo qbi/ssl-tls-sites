@@ -18,6 +18,7 @@
 | [[https://www.bmwi.de/][BMWi]]                                 | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dbmwi.de][B]]                   |
 | [[https://chronicle.com/][Chronicle]]                            | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dchronicle.com][B]]                   |
 | [[https://coursera.org/][Coursera]]                             | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dcoursera.org][A]]                   |
+| [[https://dfn.de/][DFN]]                                  | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Ddfn.de][B]]                   |
 | [[https://portal.dnb.de/][DNB-Portal]]                           | SSL2, SSL3, TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dportal.dnb.de][F]]                   |
 | [[https://events.ccc.de/][Eventseite beim CCC]]                  | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Devents.ccc.de][F]]                   |
 | [[https://flattr.com/][Flattr]]                               | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dflattr.com][B]]                   |
