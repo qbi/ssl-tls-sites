@@ -71,6 +71,7 @@
 | [[https://scholarsphere.psu.edu/][PennState Scholarsphere]]              | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d=scholarsphere.psu.edu][B]]                   |
 | [[https://www.phpbb.com/][phpBB]]                                | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d=phpbb.com][A]]                   |
 | [[https://pinterest.com/][Pinterest]]                            | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d=pinterest.com][B]]                   |
+| [[https://piratenfraktion-berlin.de/][Piratenfranktion Berlin]]              | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dpiratenfraktion-berlin.de][B]]                   |
 | [[https://piratenpad.de/][Piratenpad]]                           | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d=piratenpad.de][B]]                   |
 | [[https://www.plos.org/][PLOS]]                                 | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d=www.plos.org][B]]                   |
 | [[https://projecthoneypot.org/][Project Honeypot]]                     | SSL2, SSL3, TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=projecthoneypot.org][F]]                   |
