@@ -32,6 +32,7 @@
 | [[https://events.ccc.de/][Eventseite beim CCC]]                  | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d=events.ccc.de][F]]                   |
 | [[https://f-droid.org/][F-Droid]]                              | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d=f-droid.org][B]]                   |
 | [[https://flattr.com/][Flattr]]                               | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d=flattr.com][B]]                   |
+| [[https://fosdem.org/][FOSDEM]]                               | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dfosdem.org][B]]                   |
 | [[https://freedom-to-tinker.com/][Freedom to tinker]]                    | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d=freedom-to-tinker.com][B]]                   |
 | [[https://www.freenode.net/][Freenode]]                             | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d=freenode.net][B]]                   |
 | [[https://fsfe.org/][FSFE]]                                 | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d=fsfe.org][B]]                   |
