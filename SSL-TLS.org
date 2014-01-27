@@ -94,6 +94,7 @@
 | [[https://spideroak.com/][SpiderOak]]                            | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d=spideroak.com][B]]                   |
 | [[https://papers.ssrn.com/][SSRN]]                                 | SSL2, SSL3, TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=papers.ssrn.com][F]]                   |
 | [[https://stackexchange.com/][Stackexchange]]                        | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d=stackexchange.com][B]]                   |
+| [[https://startssl.com/][StartSSL]]                             | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dstartssl.com][B]]                   |
 | [[https://www.stumbleupon.com/][Stumbleupon]]                          | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d=www.stumbleupon.com][B]]                   |
 | [[https://www.theengineroom.org/][The Engine Room]]                      | SSL2, SSL3, TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dtheengineroom.org][B]]                   |
 | [[https://www.threatpost.com/][Threatpost]]                           | SSL3, TLS1.0       | [[https://www.ssllabs.com/ssltest/analyze.html?d=threatpost.com][A]]                   |
