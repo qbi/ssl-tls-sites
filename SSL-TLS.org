@@ -19,6 +19,7 @@
 | [[https://www.vorratsdatenspeicherung.de/][Arbeitskreis Vorratsdatenspeicherung]] |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=vorratsdatenspeicherung.de][F]]                   |
 | [[https://archive.org/][Archive.org]]                          |      | SSL3 |        | [[https://www.ssllabs.com/ssltest/analyze.html?d=archive.org][A]]                   |
 | [[https://arxiv.org/][Arxiv]]                                | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=arxiv.org][F]]                   |
+| [[https://www.atagar.com/][Atagar]]                               |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Datagar.com][B]]                   |
 | [[https://www.biomedcentral.com/][BioMed Central]]                       |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=www.biomedcentral.com][B]]                   |
 | [[https://bit.ly/][Bit.ly]]                               |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dbit.ly][B]]                   |
 | [[https://www.bmwi.de/][BMWi]]                                 |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=bmwi.de][B]]                   |
