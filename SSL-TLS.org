@@ -116,6 +116,7 @@
 | [[https://vollmar.net/][Vollmar]]                              | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=vollmar.net][F]]                   |
 | [[https://blogs.law.harvard.edu/][Weblogs at Harvard Law School]]        | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=blogs.law.harvard.edu][F]]                   |
 | [[https://webpg.org/][WebPG]]                                |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=webpg.org][F]]                   |
+| [[https://xmpp.net//][xmpp.net]]                             |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dxmpp.net][B]]                   |
 | [[https://yahoo.com/][Yahoo!]]                               |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=yahoo.com][B]]                   |
 | [[https://yammer.com/][Yammer]]                               |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=yammer.com][B]]                   |
 | [[https://yelp.com/][Yelp]]                                 | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=yelp.com][B]]                   |
