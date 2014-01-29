@@ -69,6 +69,7 @@
 | [[https://jobs.openbiblio.eu/][Open Biblio Jobs]]                     |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=jobs.openbiblio.eu][B]]                   |
 | [[https://open.library.emory.edu/][OpenEmory]]                            |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=open.library.emory.edu][B]]                   |
 | [[https://www.openpetition.de/][OpenPetition]]                         |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=openpetition.de][A]]                   |
+| [[https://www.openprinting.org/][OpenPrinting]]                         |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dopenprinting.org][B]]                   |
 | [[https://pad.foebud.org/][Pad von Foebud]]                       |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=pad.foebud.org][C]]                   |
 | [[https://pad.riseup.net/][Pad von Riseup.net]]                   |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=pad.riseup.net][A]]                   |
 | [[https://pads.subsignal.org/][Pad von Subsignal.org]]                |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=pads.subsignal.org][F]]                   |
