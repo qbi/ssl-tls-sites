@@ -23,6 +23,7 @@
 | [[https://www.biomedcentral.com/][BioMed Central]]                            |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=www.biomedcentral.com][B]]                   |
 | [[https://bit.ly/][Bit.ly]]                                    |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dbit.ly][B]]                   |
 | [[https://www.bmwi.de/][BMWi]]                                      |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=bmwi.de][B]]                   |
+| [[https://www.browserstack.com/][BrowserStack]]                              |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dbrowserstack.com][B]]                   |
 | [[https://cacert.org/][CAcert]]                                    |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dcacert.org][F]]                   |
 | [[https://cyberlaw.stanford.edu/][Center for Internet and Society]]           |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=cyberlaw.stanford.edu][B]]                   |
 | [[https://chronicle.com/][Chronicle]]                                 |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=chronicle.com][B]]                   |
