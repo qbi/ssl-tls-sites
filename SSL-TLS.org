@@ -43,6 +43,7 @@
 | [[https://freedom-to-tinker.com/][Freedom to tinker]]                         |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=freedom-to-tinker.com][B]]                   |
 | [[https://www.freenode.net/][Freenode]]                                  |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=freenode.net][B]]                   |
 | [[https://fsfe.org/][FSFE]]                                      |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=fsfe.org][B]]                   |
+| [[https://cve.mitre.org/][CVE]]                                       |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dcve.mitre.org][B]]                   |
 | [[https://www.tu-berlin.de/][FU Berlin (+Subdomains)]]                   |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=tu-berlin.de][B]]                   |
 | [[https://wiki.fernuni-hagen.de/][FU Hagen (Wiki)]]                           |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=wiki.fernuni-hagen.de][B]]                   |
 | [[https://help.github.com/][Github (Hilfeseite)]]                       |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=help.github.com][A]]                   |
