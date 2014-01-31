@@ -96,6 +96,7 @@
 | [[https://schneier.com/][Schneier.com]]                              |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=schneier.com][B]]                   |
 | [[https://www.scholasticahq.com/][Scholastica]]                               |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=www.scholasticahq.com][B]]                   |
 | [[https://www.sciencemag.org/][Science Magazine]]                          |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=www.sciencemag.org][B]]                   |
+| [[https://www.secunia.com][Secunia]]                                   |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dsecunia.com][B]]                   |
 | [[https://securelist.com/][Securelist]]                                | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dsecurelist.com][F]]                   |
 | [[https://shop.tuxpost.de/][Shop von Tuxpost.de]]                       |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=shop.tuxpost.de][A]]                   |
 | [[https://www.soundcloud.com/][Soundcloud]]                                |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=soundcloud.com][B]]                   |
