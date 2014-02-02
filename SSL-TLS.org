@@ -47,6 +47,7 @@
 | [[https://www.tu-berlin.de/][FU Berlin (+Subdomains)]]                   |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=tu-berlin.de][B]]                   |
 | [[https://wiki.fernuni-hagen.de/][FU Hagen (Wiki)]]                           |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=wiki.fernuni-hagen.de][B]]                   |
 | [[https://help.github.com/][Github (Hilfeseite)]]                       |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=help.github.com][A]]                   |
+| [[https://www.pollin.de/][Pollin]]                                    |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dpollin.de][C]]                   |
 | [[https://www.gnu.org/][GNU]]                                       |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=gnu.org][A]]                   |
 | [[https://www.goetheanum.org/][Goetheanum]]                                |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dgoetheanum.org][B]]                   |
 | [[https://heise.de/][Heise]]                                     |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=heise.de&s%3D193.99.144.85&hideResults%3Don][A]]                   |
