@@ -29,6 +29,8 @@
 | [[https://chronicle.com/][Chronicle]]                                 |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=chronicle.com][B]]                   |
 | [[https://coursera.org/][Coursera]]                                  |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=coursera.org][A]]                   |
 | [[https://creativecommons.org/][Creative Commons]]                          |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=creativecommons.org][B]]                   |
+| [[https://cryptostorm.is/][Cryptostorm.is]]                            |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dcryptostorm.is][B]]                   |
+| [[https://cve.mitre.org/][CVE]]                                       |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dcve.mitre.org][B]]                   |
 | [[https://www.degruyter.com/][De Gruyter]]                                | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=www.degruyter.com][F]]                   |
 | [[https://dfn.de/][DFN]]                                       |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=dfn.de][B]]                   |
 | [[https://portal.dnb.de/][DNB-Portal]]                                | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=portal.dnb.de][F]]                   |
@@ -46,6 +48,7 @@
 | [[https://www.tu-berlin.de/][FU Berlin (+Subdomains)]]                   |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=tu-berlin.de][B]]                   |
 | [[https://wiki.fernuni-hagen.de/][FU Hagen (Wiki)]]                           |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=wiki.fernuni-hagen.de][B]]                   |
 | [[https://help.github.com/][Github (Hilfeseite)]]                       |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=help.github.com][A]]                   |
+| [[https://www.pollin.de/][Pollin]]                                    |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dpollin.de][C]]                   |
 | [[https://www.gnu.org/][GNU]]                                       |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=gnu.org][A]]                   |
 | [[https://www.goetheanum.org/][Goetheanum]]                                |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dgoetheanum.org][B]]                   |
 | [[https://heise.de/][Heise]]                                     |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=heise.de&s%3D193.99.144.85&hideResults%3Don][A]]                   |
@@ -97,6 +100,8 @@
 | [[https://schneier.com/][Schneier.com]]                              |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=schneier.com][B]]                   |
 | [[https://www.scholasticahq.com/][Scholastica]]                               |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=www.scholasticahq.com][B]]                   |
 | [[https://www.sciencemag.org/][Science Magazine]]                          |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=www.sciencemag.org][B]]                   |
+| [[https://www.secunia.com][Secunia]]                                   |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dsecunia.com][B]]                   |
+| [[https://securelist.com/][Securelist]]                                | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dsecurelist.com][F]]                   |
 | [[https://shop.tuxpost.de/][Shop von Tuxpost.de]]                       |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=shop.tuxpost.de][A]]                   |
 | [[https://www.soundcloud.com/][Soundcloud]]                                |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=soundcloud.com][B]]                   |
 | [[https://spd.de/][SPD]]                                       | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=spd.de][F]]                   |
