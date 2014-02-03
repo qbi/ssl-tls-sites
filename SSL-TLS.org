@@ -18,8 +18,6 @@
 | [[https://www.april.org/][April]]                                     | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=www.april.org][F]]                   |
 | [[https://www.vorratsdatenspeicherung.de/][Arbeitskreis Vorratsdatenspeicherung]]      |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=vorratsdatenspeicherung.de][F]]                   |
 | [[https://archive.org/][Archive.org]]                               |      | SSL3 |        | [[https://www.ssllabs.com/ssltest/analyze.html?d=archive.org][A]]                   |
-| [[https://xkcd.com/][xkcd]]                                      |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dxkcd.com][B]]                   |
-| [[https://dvcs.w3.org/][dvcs.w3.org]]                               |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Ddvcs.w3.org][B]]                   |
 | [[https://arxiv.org/][Arxiv]]                                     | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=arxiv.org][F]]                   |
 | [[https://www.atagar.com/][Atagar]]                                    |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Datagar.com][B]]                   |
 | [[https://www.biomedcentral.com/][BioMed Central]]                            |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=www.biomedcentral.com][B]]                   |
@@ -34,6 +32,7 @@
 | [[https://www.degruyter.com/][De Gruyter]]                                | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=www.degruyter.com][F]]                   |
 | [[https://dfn.de/][DFN]]                                       |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=dfn.de][B]]                   |
 | [[https://portal.dnb.de/][DNB-Portal]]                                | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=portal.dnb.de][F]]                   |
+| [[https://dvcs.w3.org/][dvcs.w3.org]]                               |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Ddvcs.w3.org][B]]                   |
 | [[https://www.ebscohost.com/][EBSCOhost]]                                 | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=www.ebscohost.com][F]]                   |
 | [[https://www.emeraldinsight.com/][Emerald Insight]]                           |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=www.emeraldinsight.com][B]]                   |
 | [[https://escholarship.bc.edu/][eScholarship@BC]]                           | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=escholarship.bc.edu][F]]                   |
@@ -91,6 +90,7 @@
 | [[https://quitter.se/][Quitter]]                                   |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=quitter.se][B]]                   |
 | [[https://realtor.com/][Realtor]]                                   |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=realtor.com][F]]                   |
 | [[https://reiseauskunft.bahn.de/][Reiseauskunft (Bahn)]]                      |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=reiseauskunft.bahn.de][B]]                   |
+| [[https://www.rfc-editor.org/][RFC Editor]]                                | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Drfc-editor.org][B]]                   |
 | [[https://ruby-lang.org/][Ruby]]                                      |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=ruby-lang.org][B]]                   |
 | [[https://www.ruhr-uni-bochum.de/][Ruhr-Uni Bochum (RUB)]]                     |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=ruhr-uni-bochum.de][B]]                   |
 | [[https://www.safe-mail.net/][Safe-Mail]]                                 |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=safe-mail.net][F]]                   |
@@ -123,6 +123,7 @@
 | [[https://vollmar.net/][Vollmar]]                                   | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=vollmar.net][F]]                   |
 | [[https://blogs.law.harvard.edu/][Weblogs at Harvard Law School]]             | SSL2 | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=blogs.law.harvard.edu][F]]                   |
 | [[https://webpg.org/][WebPG]]                                     |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=webpg.org][F]]                   |
+| [[https://xkcd.com/][xkcd]]                                      |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dxkcd.com][B]]                   |
 | [[https://xmpp.net//][xmpp.net]]                                  |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d%3Dxmpp.net][B]]                   |
 | [[https://yahoo.com/][Yahoo!]]                                    |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=yahoo.com][B]]                   |
 | [[https://yammer.com/][Yammer]]                                    |      | SSL3 | TLS1.0 | [[https://www.ssllabs.com/ssltest/analyze.html?d=yammer.com][B]]                   |
