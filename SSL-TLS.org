@@ -1,3 +1,7 @@
+* Project ceased
+
+I have stopped working on that project. It is archived for documentation purposes.
+
 * What sites offer which SSL/TLS version?
   I try to collect sites which do not support TLS 1.1 or TLS 1.2. You
   can send me a [[https://github.com/qbi/ssl-tls-sites/pulls][pull request]] or use the [[https://pad.systemli.org/p/SSL-TLS][Pad]]. The data below go into my
