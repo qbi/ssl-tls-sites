@@ -1,3 +1,8 @@
+Project ceased
+==============
+
+I have stopped working on that project. It is archived for documentation purposes.
+
 What websites offer good encryption?
 =============
 
@@ -10,8 +15,7 @@ here:
 
 https://kubieziel.de/computer/ssl-tls.html
 
-If you know about other sites please edit the file [SSL-TLS.org][] or the
-[Pad][].
+If you know about other sites please edit the file [SSL-TLS.org][].
 
 [tutorial on the secure settings of SSL/TLS in your browser]: http://www.kubieziel.de/blog/archives/1564-Using-SSL-securely-in-your-browser.html
 
